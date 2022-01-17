@@ -1,0 +1,30 @@
+table {
+    width: 600px;
+    border-spacing:3px;
+    
+}
+
+th caption {
+    text-align:center;
+}
+
+table, th, td {
+    border: 1px solid red;
+}
+
+th, td {
+    padding: 3px;
+}
+
+body {
+    background-image: url('/img/RepeatImg.png');
+
+}
+
+h2 {color:red;}
+h1 {color:rgb(0, 0, 0);}
+p {color:red;}
+ul li {color:red;}
+li b {color:red;}
+br {color:red;  }
+a {color: pink;}
