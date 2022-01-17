@@ -17,14 +17,17 @@ th, td {
 }
 
 body {
-    background-image: url('/img/RepeatImg.png');
-
+    background-image: url('/About-Braden-Curtis/img/RepeatImg.png');
 }
 
 h2 {color:red;}
-h1 {color:rgb(0, 0, 0);}
+h1 {color:red;}
 p {color:red;}
 ul li {color:red;}
 li b {color:red;}
 br {color:red;  }
-a {color: pink;}
+a {color: #ee0ac8;}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: underline;}
+a:active {text-decoration: underline;}
